@@ -29,10 +29,10 @@
 ## 📸 Visualizations
 
 **Downtime by Factory**  
-![Downtime by Factory](./assets/downtime_by_factory.png)
+![Downtime by Factory](./assets/downtime_per_factory.PNG)
 
 **Downtime by Machine Type**  
-![Downtime by Machine](./assets/downtime_by_machine.png)
+![Downtime by Machine](./assets/downtime_per_device_type.PNG)
 
 **Dashboard Overview**  
 ![Dashboard Overview](./assets/dashboard_overview.png)
