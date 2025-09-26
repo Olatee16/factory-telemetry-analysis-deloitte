@@ -35,7 +35,7 @@
 ![Downtime by Machine](./assets/downtime_per_device_type.PNG)
 
 **Dashboard Overview**  
-![Dashboard Overview](./assets/dashboard_overview.png)
+![Dashboard Overview](./assets/Dashboard_1.PNG)
 
 ---
 
